@@ -1,0 +1,26 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Cadence Genus / EDA Tool Output Logs & Temporary Artifacts
+*.log
+*.cmd*
+*.key
+*.check
+fv/
+genus.cmd*
+genus.log*
+checkpoints/
+outputs/
+
+# Large EDA Synthesis Run Iteration Zip Archives (>100MB)
+*.zip
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Temporary scratch scripts
+scratch/

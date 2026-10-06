@@ -1,0 +1,51 @@
+
+ 	 Check Design Report (c)
+	 ------------------- 
+
+ Undriven Port(s)/Pin(s)
+ ------------------------
+No undriven combinational pin in 'mlkem_picosoc_top'
+
+No undriven sequential pin in 'mlkem_picosoc_top'
+
+The following hierarchical pin(s) in design 'mlkem_picosoc_top' are undriven
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_wr 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[31] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[30] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[29] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[28] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[27] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[26] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[25] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[24] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[23] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[22] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[21] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[20] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[19] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[18] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[17] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[16] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[15] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[14] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[13] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[12] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[11] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[10] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[9] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[8] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[7] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[6] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[5] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[4] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[3] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[2] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[1] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_rd[0] 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_wait 	 (fanout : 0)
+/designs/mlkem_picosoc_top/instances_hier/soc/instances_hier/cpu/pins_in/pcpi_ready 	 (fanout : 0)
+Total number of hierarchical undriven pins in design 'mlkem_picosoc_top' : 35
+
+No undriven port in 'mlkem_picosoc_top'
+
+  Done Checking the design.
